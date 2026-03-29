@@ -2,7 +2,7 @@
 
 这是一个安卓学生考勤管理系统，旨在为学生和教师提供便捷的考勤管理功能。系统分为学生端和教师端，各自拥有不同的功能模块以满足其特定需求。
 
-完整源码获取：https://faka.gzicreate.top/buy/313![登录界面]([完整源码获取](https://faka.gzicreate.top/buy/313)
+完整源码获取：https://faka.gzicreate.top/buy/313
 
 ## **项目功能详细介绍**
 
